@@ -12,11 +12,12 @@ const ContactUs = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      'service_gzz4q0d',
-      'template_mujx54w',
+      process.env.REACT_APP_EMAILJS_SERVICE_ID,
+      process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
       form.current,
-      '_30OD4VaT3DCUHFqq'
+      process.env.REACT_APP_EMAILJS_PUBLIC_KEY
     )
+
     .then(() => {
       setSuccessMessage('Message sent successfully!');
       form.current.reset();
