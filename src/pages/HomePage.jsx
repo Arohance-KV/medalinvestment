@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/HomePage.css';
 import Banner from '../components/Banner';
-import profileImg from '../assets/profile.jpg';
+import profileImg from '../assets/profile.avif';
 import { FaUsers, FaChartLine, FaPiggyBank } from 'react-icons/fa';
 import partner1 from '../assets/partners/franklin.jpg';
 import partner2 from '../assets/partners/hdfc.jpg';

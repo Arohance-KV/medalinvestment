@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import '../styles/About.css';
-import profileImg from '../assets/profile.jpg';
+import profileImg from '../assets/profile.avif';
 import { Link } from 'react-router-dom';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
@@ -148,6 +148,10 @@ const About = () => {
           their financial destiny. That belief is the heart of everything we do."
         </p>
       </div>
+      <footer className="footer">
+        <p>© 2025 Medal Investments. All rights reserved.</p>
+        <p className="disclaimer">Disclaimer: Disclaimer: Mutual Fund investments are subject to market risks, read all scheme related documents carefully. The NAVs of the schemes may go up or down depending upon the factors and forces affecting the securities market including the fluctuations in the interest rates. The past performance of the mutual funds is not necessarily indicative of future performance of the schemes. The Mutual Fund is not guaranteeing or assuring any dividend under any of the schemes and the same is subject to the availability and adequacy of distributable surplus. Investors are requested to review the prospectus carefully and obtain expert professional advice with regard to specific legal, tax and financial implications of the investment/participation in the scheme.</p>
+      </footer>
     </div>
   );
 };
