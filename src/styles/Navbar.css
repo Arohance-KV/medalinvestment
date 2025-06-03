@@ -50,7 +50,7 @@
 }
 
 .navbar-links li a:hover {
-  color: #0056d2; /* Optional hover color */
+  color: rgb(18, 59, 90); /* Optional hover color */
 }
 
 .navbar-links .active a {
@@ -66,18 +66,18 @@
 }
 
 .navbar-links li:hover {
-  color: #005bff;
+  color: rgb(18, 59, 90);
 }
 
 .navbar-links li.active {
   font-weight: 700;
-  color: #005bff;
+  color: rgb(18, 59, 90);
 }
 
 /* Contact Button */
 .contact-button {
   font-weight: 500;
-  background-color: #005bff;
+  background-color: rgb(18, 59, 90);
   color: white;
   border: none;
   padding: 0.6rem 1.4rem;

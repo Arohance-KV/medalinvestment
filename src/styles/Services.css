@@ -14,7 +14,7 @@
 .services-header1 {
   text-align: center;
   padding: 160px 20px 60px; /* Add extra padding-top to compensate for navbar height */
-  background: #007aff;
+  background: rgb(18, 59, 90);
   color: white;
   margin-top: -80px; /* Pull background behind navbar */
   position: relative;
@@ -43,7 +43,7 @@
 }
 
 .services-title span {
-  color: #007aff;
+  color: rgb(18, 59, 90);
 }
 
 .services-grid {
@@ -64,7 +64,7 @@
 
 .service-card .icon {
   font-size: 36px;
-  color: #007aff;
+  color: rgb(18, 59, 90);
   margin-bottom: 1rem;
 }
 
@@ -98,7 +98,7 @@
 }
 
 .testimonial-section span {
-  color: #007aff;
+  color: rgb(18, 59, 90);
 }
 .testimonial-slider {
   display: flex;
@@ -121,7 +121,7 @@
 }
 
 .testimonial-slider button:hover {
-  background-color: #007aff;
+  background-color: rgb(18, 59, 90);
   color: white;
 }
 
@@ -154,7 +154,7 @@
 }
 
 .initial-avatar {
-  background-color: #007aff;
+  background-color: rgb(18, 59, 90);
   color: white;
   font-weight: bold;
   border-radius: 50%;
@@ -173,7 +173,7 @@
 }
 
 .testimonial-buttons button {
-  background: #007aff;
+  background: rgb(18, 59, 90);
   color: white;
   border: none;
   padding: 10px 20px;

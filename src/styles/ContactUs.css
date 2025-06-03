@@ -8,7 +8,7 @@
 .contact-header {
   text-align: center;
   padding: 160px 20px 60px;
-  background: #007aff;
+  background: rgb(18, 59, 90);
   color: white;
   margin-top: -80px;
   position: relative;
@@ -37,7 +37,7 @@
 }
 
 .contact-form-section span {
-  color: #007aff;
+  color: rgb(18, 59, 90);
 }
 
 .contact-form {
@@ -59,7 +59,7 @@
 
 .contact-form button {
   padding: 12px;
-  background-color: #007aff;
+  background-color: rgb(18, 59, 90);
   color: white;
   border: none;
   font-size: 16px;
@@ -69,7 +69,7 @@
 }
 
 .contact-form button:hover {
-  background-color: #005bb5;
+  background-color: rgb(18, 59, 90);
 }
 
 .whatsapp-section {
@@ -114,7 +114,7 @@
 }
 
 .footer {
-  background: #007aff;
+  background: rgb(18, 59, 90);
   color: white;
   padding: 30px 10%;
   text-align: center;
