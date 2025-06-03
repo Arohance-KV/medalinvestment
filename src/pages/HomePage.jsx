@@ -46,7 +46,7 @@ const HomePage = () => {
       <FaPiggyBank className="service-icon" />
       <h3>Alternate Investments</h3>
       <p>
-        Alternate investments are non-traditional assets like real estate, hedge funds, private equity, or commodities. They offer diversification, potential high returns, and hedge against market volatility, but carry higher risks.
+        Alternate investments are non-traditional assets like REITS, DEBT, BONDS & COMMODITIES. They offer diversification, potential high returns, and hedge against market volatility, but carry higher risks.
       </p>
     </div>
   </div>

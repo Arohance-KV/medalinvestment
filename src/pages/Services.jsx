@@ -13,7 +13,7 @@ const testimonials = [
   { initial: 'B', name: 'Bhoumik Nandu', comment: 'Praful has been an excellent investment advisor, consistently making smart and timely decisions that have strengthened my portfolio.' },
   { initial: 'C', name: 'Chirag Patel', comment: 'Clear guidance on SIP/SWP, very trustworthy service.' },
   { initial: 'D', name: 'Divya Joshi', comment: 'They made finance easy to understand. Great experience!' },
-  { initial: 'E', name: 'Eshan Verma', comment: 'Alternate investments are non-traditional assets like REITS, DEBT, BONDS & COMMODITIES. They offer diversification, potential high returns, and hedge against market volatility, but carry higher risks.' },
+  { initial: 'E', name: 'Eshan Verma', comment: 'Alternate investments explained beautifully. Gained a lot.' },
   { initial: 'F', name: 'Fatima Khan', comment: 'Peace of mind through excellent financial planning advice.' },
 ];
 
@@ -124,7 +124,7 @@ const Services = () => {
         <div className="service-card">
           <FaPiggyBank className="icon" />
           <h3>Alternate Investments</h3>
-          <p>Alternate investments are non-traditional assets like real estate, hedge funds, private equity, or commodities. They offer diversification, potential high returns, and hedge against market volatility, but carry higher risks.</p>
+          <p>Alternate investments are non-traditional assets like REITS, DEBT, BONDS & COMMODITIES. They offer diversification, potential high returns, and hedge against market volatility, but carry higher risks.</p>
         </div>
       </div>
 
