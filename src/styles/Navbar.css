@@ -16,7 +16,7 @@
   transform: translateX(-50%);
   background-color: white;
   border-radius: 40px;
-  padding: 10px 30px;
+  padding: 10px 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -27,7 +27,7 @@
 
 /* Logo */
 .navbar-logo img {
-  height: 50px;
+  height: 60px;
 }
 
 /* Nav Links */

@@ -114,7 +114,7 @@
 
 /* About Section */
 .about-section {
-  background-color: #007bff;
+  background-color: rgb(18, 59, 90);
   color: #fff;
   padding: 4rem 2rem;
   text-align: center;
@@ -194,7 +194,7 @@
 
 .contact-now {
   background-color: white;
-  color: #007bff;
+  color: rgb(18, 59, 90);
   padding: 0.75rem 1.5rem;
   border: none;
   border-radius: 25px;
@@ -281,7 +281,6 @@
   width: 80%;
   height: auto;
   object-fit: contain;
-  filter: grayscale(100%);
   transition: filter 0.3s ease;
   border-radius: 50%;          
   border: 2px solid #ddd;       

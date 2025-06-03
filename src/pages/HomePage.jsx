@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/HomePage.css';
 import Banner from '../components/Banner';
-import profileImg from '../assets/profile.avif';
+import profileImg from '../assets/profile.jpeg';
 import { FaUsers, FaChartLine, FaPiggyBank } from 'react-icons/fa';
 import partner1 from '../assets/partners/franklin.jpg';
 import partner2 from '../assets/partners/hdfc.jpg';
@@ -71,7 +71,7 @@ const HomePage = () => {
           </div>
           <div className="about-text">
             <p className="about-subtitle">~ About Me</p>
-            <h2>Who is <span className="highlight1">Mr. Prafful Jain?</span></h2>
+            <h2>Who is <span className="highlight1">Mr. Praful Dinesh?</span></h2>
             <p>He is the founder of Medal Investments and has achieved excellent results for both his clients and himself through his exceptional knowledge in financial planning.</p>
             <div className="about-stats">
               <div className="stat">
@@ -79,13 +79,13 @@ const HomePage = () => {
                 <p>People Educated</p>
               </div>
               <div className="stat">
-                <h3>7+</h3>
+                <h3>17+</h3>
                 <p>Accounts Family</p>
                 <p>managed</p>
               </div>
               <div className="stat">
-                <h3>50 Lakhs+</h3>
-                <p>Total Invested</p>
+                <h3>80 Lakhs+</h3>
+                <p>Total Assets Invested</p>
               </div>
             </div>
             <button className="contact-now" onClick={() => window.open('https://wa.me/918277608357', '_blank')}>

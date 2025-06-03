@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import '../styles/About.css';
-import profileImg from '../assets/profile.avif';
+import profileImg from '../assets/profile.jpeg';
 import { Link } from 'react-router-dom';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
@@ -113,7 +113,7 @@ const About = () => {
           </div>
           <div className="about-text1">
             <p className="about-subtitle1">~ About Me</p>
-            <h2>Who is <span className="highlight">Mr. Prafful Jain?</span></h2>
+            <h2>Who is <span className="highlight">Mr. Praful Dinesh?</span></h2>
             <p>
               He is the founder of Medal Investments and has achieved excellent results for both his clients and himself
               through his exceptional knowledge in financial planning.
@@ -124,13 +124,13 @@ const About = () => {
                 <p>People Educated</p>
               </div>
               <div className="stat1">
-                <h3>7+</h3>
+                <h3>17+</h3>
                 <p>Accounts Family</p>
                 <p>managed</p>
               </div>
               <div className="stat1">
-                <h3>50 Lakhs+</h3>
-                <p>Total Invested</p>
+                <h3>80 Lakhs+</h3>
+                <p>Total Assets Invested</p>
               </div>
             </div>
              <button className="contact-now1" onClick={() => window.open('https://wa.me/918277608357', '_blank')}>

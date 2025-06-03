@@ -9,11 +9,11 @@ import { Link } from 'react-router-dom';
 gsap.registerPlugin(ScrollTrigger);
 
 const testimonials = [
-  { initial: 'S', name: 'Sanjali Dharamshi', comment: "'I'm really thankful to Prafful for encouraging me to start investing in mutual funds. His practical advice and steady guidance have made a big difference in how I handle my finances."},
+  { initial: 'S', name: 'Sanjali Dharamshi', comment: "'I'm really thankful to Praful for encouraging me to start investing in mutual funds. His practical advice and steady guidance have made a big difference in how I handle my finances."},
   { initial: 'B', name: 'Bhoumik Nandu', comment: 'Praful has been an excellent investment advisor, consistently making smart and timely decisions that have strengthened my portfolio.' },
   { initial: 'C', name: 'Chirag Patel', comment: 'Clear guidance on SIP/SWP, very trustworthy service.' },
   { initial: 'D', name: 'Divya Joshi', comment: 'They made finance easy to understand. Great experience!' },
-  { initial: 'E', name: 'Eshan Verma', comment: 'Alternate investments explained beautifully. Gained a lot.' },
+  { initial: 'E', name: 'Eshan Verma', comment: 'Alternate investments are non-traditional assets like REITS, DEBT, BONDS & COMMODITIES. They offer diversification, potential high returns, and hedge against market volatility, but carry higher risks.' },
   { initial: 'F', name: 'Fatima Khan', comment: 'Peace of mind through excellent financial planning advice.' },
 ];
 
