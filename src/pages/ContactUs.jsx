@@ -58,7 +58,7 @@ const ContactUs = () => {
       {/* Address Section */}
       <div className="address-section">
         <h3>Our Address</h3>
-        <p>Medal Investments Pvt. Ltd.<br />#238 Old Tharagupete, Bengaluru</p>
+        <p>Medal Investments<br />#238 Old Tharagupete, Bengaluru</p>
       </div>
 
       {/* Footer */}
