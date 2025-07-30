@@ -124,12 +124,12 @@ const About = () => {
                 <p>People Educated</p>
               </div>
               <div className="stat1">
-                <h3>17+</h3>
+                <h3>25+</h3>
                 <p>Accounts Family</p>
                 <p>managed</p>
               </div>
               <div className="stat1">
-                <h3>80 Lakhs+</h3>
+                <h3>120 Lakhs+</h3>
                 <p>Total Assets Invested</p>
               </div>
             </div>
